@@ -30,7 +30,7 @@ const Layout = ({ location, title, children }) => {
         <a href="https://www.gatsbyjs.com">Gatsby</a>
         {` `}
         <br />
-        <p>プライバシーポリシー<a href="/privacypolicy/">日本語</a></p>
+        <a href="/privacypolicy/">Privacy Policy</a>
       </footer>
     </div>
   )
