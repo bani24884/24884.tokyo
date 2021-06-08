@@ -16,7 +16,7 @@ date: "2021-05-08T23:46:37.121Z"
 また任意の環境でpostgresqlを用意してください。
 
 # 要件
-以下の要件で
+以下の要件を満たすアプリケーションを作成します。
 - binance futuresのUSDT建てのsymbolの1分足のデータを取得する。
 - closeされたklineだけをデータベースにinsertする。
 - 時刻のデータはunixtimeからdatetimeへ変換する。
