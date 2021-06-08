@@ -21,7 +21,7 @@ const ContactPage = ({data, location}) => {
 
         <div className="form-group">
           <label>Name<abbr title="required">*</abbr>
-          <input type="text" className="form-control" id="name" name="name" placeholder="お名前" maxlength="30" minlength="2" required autocomplete="name" />
+          <input type="text" className="form-control" id="name" name="name" placeholder="" maxlength="30" minlength="2" required autocomplete="name" />
           </label>
         </div>
         <div className="form-group">
