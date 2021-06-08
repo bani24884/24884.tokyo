@@ -31,7 +31,7 @@ const ContactPage = ({data, location}) => {
         </div>
         <div className="form-group">
           <label>Message<abbr title="required">*</abbr>
-          <textarea className="form-control" id="contact" name="content" rows="16" required></textarea>
+          <textarea className="form-control" id="contact" name="content" rows="8" cols="64" required></textarea>
           </label>
         </div>
 
@@ -39,7 +39,6 @@ const ContactPage = ({data, location}) => {
         <button type="submit">Submit Form</button>
         </div>
       </form>
-      <Link to="/">home</Link>
     </Layout>
   )
 }
