@@ -3,7 +3,7 @@ module.exports = {
     title: `24884.tokyo`,
     author: {
       name: `A. Nishibayashi`,
-      summary: `who lives in Tokyo, interested in Machine Learning and Algorithmic Trading.`,
+      summary: `who lives in Tokyo, has a passion for anything data-related.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
