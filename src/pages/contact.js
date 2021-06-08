@@ -31,7 +31,7 @@ const ContactPage = ({data, location}) => {
         </div>
         <div className="form-group">
           <label>Message<abbr title="required">*</abbr>
-          <textarea className="form-control" id="contact" name="content" rows="8" required></textarea>
+          <textarea className="form-control" id="contact" name="content" rows="16" required></textarea>
           </label>
         </div>
 
